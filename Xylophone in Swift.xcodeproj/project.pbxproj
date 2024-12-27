@@ -21,6 +21,11 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		688579462D1E2CAF007320A8 /* Sounds */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		68C00AED2D15F1F500C3FEFA /* Xylophone in Swift */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -46,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				68C00AED2D15F1F500C3FEFA /* Xylophone in Swift */,
+				688579462D1E2CAF007320A8 /* Sounds */,
 				68C00AEC2D15F1F500C3FEFA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,6 +80,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				688579462D1E2CAF007320A8 /* Sounds */,
 				68C00AED2D15F1F500C3FEFA /* Xylophone in Swift */,
 			);
 			name = "Xylophone in Swift";
